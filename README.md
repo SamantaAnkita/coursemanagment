@@ -696,3 +696,8 @@ This for education learner
           // Please sync "Sign Up" to the project
         });
       }
+
+     var ellipseImage3 = document.getElementById("ellipseImage3");
+      if (ellipseImage3) {
+        ellipseImage3.addEventListener("click", function (e) {
+          // Please sync "Student Portal Dashboard" to the project
